@@ -14,6 +14,28 @@ Welcome to the Global Superstore Dashboard repository! This project showcases a 
 -  **Key Metrics**: Compares profits across countries, showcasing Nigeria's contributions compared to other African nations in 2014.
 Analyzes shipping costs versus discounts for better cost efficiency.
 
+## Raw Dataset  
+
+The full raw dataset for the Global Superstore Dashboard is available here:  
+[View Dataset on Google Sheets](https://docs.google.com/spreadsheets/u/0/d/1nxESpFzWjlGDMGDVLH69xmDzIl9l6OEq/htmlview#gid=633280281)  
+
+### Sample Data  
+
+| Row ID | Order ID  | Order Date | Ship Date | Customer Name | Segment | Country  | City      | Sales  | Profit  |
+|--------|----------|------------|------------|-----------------|---------|---------|-----------|--------|---------|
+| 32298  | CA-2012-124156 | 7/31/2012  | 7/31/2012  | Rick Hansen   | Consumer | New York City | New York  | 261.96 | 41.91 |
+| 26341  | CA-2013-778756 | 2/05/2013  | 2/07/2013  | Justin Ritter | Consumer | Wollongong    | Henderson | 731.94 | 219.58 |
+| 25330  | CA-2013-712488 | 10/17/2013 | 10/18/2013 | Craig Reiter  | Consumer | Brisbane      | Queensland| 14.62 | 6.87 |
+
+*(This is just a sample; the full dataset is available at the link above.)*  
+
+---
+
+### **How to Use the Dataset**  
+- Download the dataset from the provided link.  
+- Use it in **Power BI, Excel, or SQL** for analysis and visualization.
+
+ 
 ## Dashboard
 ![](Global%20Superstore%20Dashboard%201.png) 
 ![](Global%20Superstore%20Dashboard%202.png)
