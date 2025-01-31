@@ -5,6 +5,31 @@ Welcome to the Global Superstore Dashboard repository! This project showcases a 
 
 **Disclaimer**: The data used in this project is based on the Global Superstore dataset from 2014, which was obtained online. Please note that it and may not reflect current business operations of conditions.
 
+## Problem Statement
+
+Global Superstore operates across multiple regions, offering a diverse range of products. However, management needs a deeper understanding of regional profitability, product performance, shipping costs, and customer purchasing behavior to optimize sales strategies and improve decision-making.
+
+As a data analyst, your role is to analyze the dataset and answer key business questions, including:
+
+1a, What are the three countries that generated the highest total profit for Global Superstore in 2014? b, For each of these three countries, identify the three products with the highest total profit.Specifically, what are the product names and the total profit for each product?
+
+2a, Identify the three subcategories with the highest average shipping cost in the United States.
+
+3a, Assess Nigeria's profitability (i.e., total profit) for 2014. How does it compare to other African countries?
+b, What factors might be responible for Nigeria's poor performance? You might want to investigate shipping costs and the average discount as potential root causes.
+
+4a, Identify the product subcategory that is the least profitable in Southeast Asia. (Note: For this question, assume that the Southeast Asia countries comprise Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.)
+b, Is there a specific country in Southeast Asia where Global Superstore should consider offering the subcategory identified in 4a?
+
+5a, Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with fewer than 10 orders.
+b, Why is this city's average profit so low?
+
+6, Which product subcategory has the highest average profit in Australia?
+
+7, Who is the most valuable customer, and what do they purchase?
+
+By addressing these challenges, Global Superstore can make data-driven decisions to enhance profitability, streamline operations, and improve customer engagement.
+
 ## Features
 
 - **Regional Analysis**: Identifies the most and least profitable products in regions like Southeast Asia, the US, and Australia. Visualizes country performance, showing top contributors to profit and loss.
